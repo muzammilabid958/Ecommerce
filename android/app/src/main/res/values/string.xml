@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="facebook_app_id">475023980814636</string>
+<string name="fb_login_protocol_scheme">fb475023980814636</string>
+<string name="app_name">Makki Herb</string>
+<string name="notification_channel_id">com.example.MakkiHerb</string>
+<string name="facebook_client_token">0a729bf0dc7c250134221d8b6a85e30b</string>
+</resources>

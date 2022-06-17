@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "391151148487",
+    "project_id": "woo-vista",
+    "storage_bucket": "woo-vista.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391151148487:android:8bcc48a7e26c01404f8de2",
+        "android_client_info": {
+          "package_name": "com.example.IrisBag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391151148487-tr8rfuv31ro1h9k773gqnbtd4mhgvhqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.IrisBag",
+            "certificate_hash": "db963732096a9bd9e2835b1c5542411b3bc3f1d7"
+          }
+        },
+        {
+          "client_id": "391151148487-s3tpf5uq1laalgruepbgsu6u59qhnvla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJwnwdNFm2H4dTLddq4nB3Xuwcw9gBnZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391151148487-9r99j7n8ra3l434rfendp90ioo6ov8g5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391151148487-5di3361haj7h8v462m55qm4mj54gfdbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.woovista"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391151148487:android:c0b4b8ea80bdc2814f8de2",
+        "android_client_info": {
+          "package_name": "com.example.MakkiHerb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391151148487-0n7f9efqnc4krps4m52pn8p4v9tanr2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.MakkiHerb",
+            "certificate_hash": "db963732096a9bd9e2835b1c5542411b3bc3f1d7"
+          }
+        },
+        {
+          "client_id": "391151148487-s3tpf5uq1laalgruepbgsu6u59qhnvla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJwnwdNFm2H4dTLddq4nB3Xuwcw9gBnZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391151148487-9r99j7n8ra3l434rfendp90ioo6ov8g5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391151148487-5di3361haj7h8v462m55qm4mj54gfdbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.woovista"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391151148487:android:417b1fcafa4f7b804f8de2",
+        "android_client_info": {
+          "package_name": "com.example.WooVista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391151148487-lbbqgkph850k69th5t03qgo4rhdo4qt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.WooVista",
+            "certificate_hash": "db963732096a9bd9e2835b1c5542411b3bc3f1d7"
+          }
+        },
+        {
+          "client_id": "391151148487-s3tpf5uq1laalgruepbgsu6u59qhnvla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJwnwdNFm2H4dTLddq4nB3Xuwcw9gBnZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391151148487-9r99j7n8ra3l434rfendp90ioo6ov8g5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391151148487-5di3361haj7h8v462m55qm4mj54gfdbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.woovista"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
